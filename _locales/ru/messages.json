@@ -1,0 +1,18 @@
+{
+   "edgeExtensionName": {
+      "description": "Название расширения для Edge",
+      "message": "ChatExporter"
+   },
+   "extensionDescription": {
+      "description": "Описание расширения",
+      "message": "Экспорт ИИ-чатов. Сохраняйте чаты ChatGPT, Claude и Gemini в PDF, Word или Markdown."
+   },
+   "extensionName": {
+      "description": "Название расширения",
+      "message": "ChatExporter - Сохранение чатов ChatGPT, Claude и Gemini в PDF, MD и др."
+   },
+   "firefoxExtensionName": {
+      "description": "Название расширения для Firefox",
+      "message": "ChatExporter"
+   }
+}
